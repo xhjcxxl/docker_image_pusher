@@ -5,6 +5,8 @@
 # vllm/vllm-openai:latest
 # pytorch/pytorch:latest
 # qwenllm/qwen:cu121
-podwide/cosyvoice:v2.0.0
+# podwide/cosyvoice:v2.0.0
+nvcr.io/nvidia/tritonserver:24.08-trtllm-python-py3
+nvcr.io/nvidia/tensorrt:24.08-py3
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
