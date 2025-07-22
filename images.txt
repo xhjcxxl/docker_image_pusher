@@ -8,5 +8,7 @@
 # podwide/cosyvoice:v2.0.0
 nvcr.io/nvidia/tritonserver:24.08-trtllm-python-py3
 nvcr.io/nvidia/tensorrt:24.08-py3
+tensorflow/serving:latest-gpu
+tensorflow/serving:2.19.0-gpu
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
