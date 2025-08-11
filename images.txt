@@ -11,6 +11,7 @@ nvcr.io/nvidia/tensorrt:24.08-py3
 tensorflow/serving:latest-gpu
 tensorflow/serving:2.19.0-gpu
 memgraph/memgraph-mage:latest
+memgraph/lab:latest
 neo4j:5.26.2
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
