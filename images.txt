@@ -13,5 +13,6 @@ tensorflow/serving:2.19.0-gpu
 memgraph/memgraph-mage:latest
 memgraph/lab:latest
 neo4j:5.26.2
+ollama/ollama:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
